@@ -17,8 +17,8 @@ The project runs on **Python 3.x** and requires standard web-scraping dependenci
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/kas-auction-monitor.git
-   cd kas-auction-monitor
+   git clone https://github.com/Exen200/IAS-Auction-Scanner
+   cd IAS-Auction-Scanner
    ```
 
 2. **Install requirements:**
